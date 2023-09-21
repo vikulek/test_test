@@ -1,7 +1,13 @@
 ---
 title: "test_lab_1"
-format: html
+format: 
+  md:
+    output: github_document
+    
 editor: visual
+
+execute: 
+  echo: false
 ---
 
 ## Quarto
